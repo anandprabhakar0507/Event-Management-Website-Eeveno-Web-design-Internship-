@@ -8,3 +8,7 @@ Here are the details of all team members
 #### JITENDER PAL SINGH – NIET
 #### Pushker Naresh - IIT Varanasi
 #### RINKLE GARG - CHANDIGARH UNIVERSITY
+
+
+This project is hosted at [link1](https://anandprabhakar0507.github.io/Event-Management-Website-Eeveno-Web-design-Internship-/)
+                           [link2](https://git.io/JT7dx)
