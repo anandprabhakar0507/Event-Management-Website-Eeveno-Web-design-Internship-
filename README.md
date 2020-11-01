@@ -2,6 +2,7 @@
 Event-Management-Website-Eeveno-Web-design-Internship-
 This is a web development project to develop an event management website,completed by team Lakshya
 Here are the details of all team members
+![](https://raw.githubusercontent.com/anandprabhakar0507/Event-Management-Website-Eeveno-Web-design-Internship-/main/team%20members.jpg)
 
 #### Anand Prabhakar – Government Engineering College Banka
 #### JITENDER PAL SINGH – NIET
